@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>my title</title>
+	<atom:link href="https://ahmed1107.github.io/testabbs122/feed" rel="self" type="application/rss+xml" />
+	<link>https://ahmed1107.github.io/testabbs122</link>
+	<description>2</description>
+	<lastBuildDate>Friday, 22 April 2022 18:59:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>	
+	
+	
+	
+<!--feeditem-->
+<item>
+		<title>ttg</title>
+		<link>https://ahmed1107.github.io/testabbs122/t/ttg.html</link>
+		<pubDate>Friday, 22 April 2022 18:59:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[t]]></category>
+		<guid isPermaLink="false">https://ahmed1107.github.io/testabbs122/t/ttg.html</guid> 
+		<description><![CDATA[ttg
+by
+tre
+Posted on 22-04-2022 06:59 PM
+Best free website builder 2020 
+  
+ Building a website used to be the domain (geddit?) of professional designers and programmers, but thanks to free website builder apps, anyone can do it these daysThe problem is that there are so many website-building apps and services competing for attention that it can be hard to know which one to choose - here's where we can help
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+	
+	
+</channel>
+</rss>
+
+		
