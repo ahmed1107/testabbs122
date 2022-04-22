@@ -12,7 +12,7 @@
 	<atom:link href="https://ahmed1107.github.io/testabbs122/feed" rel="self" type="application/rss+xml" />
 	<link>https://ahmed1107.github.io/testabbs122</link>
 	<description>2</description>
-	<lastBuildDate>Friday, 22 April 2022 18:59:01 +0000</lastBuildDate>
+	<lastBuildDate>Friday, 22 April 2022 19:01:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>	
@@ -20,6 +20,22 @@
 	
 	
 <!--feeditem-->
+<item>
+		<title>t2</title>
+		<link>https://ahmed1107.github.io/testabbs122/t/t2.html</link>
+		<pubDate>Friday, 22 April 2022 19:01:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[t]]></category>
+		<guid isPermaLink="false">https://ahmed1107.github.io/testabbs122/t/t2.html</guid> 
+		<description><![CDATA[t2
+by
+fg
+Posted on 22-04-2022 07:01 PM
+Bester kostenloser Website-Baukasten 2020 
+ Eine Website zu erstellen war fr&amp;uuml;her die Dom&amp;auml;ne (geddit?) von professionellen Designern und Programmierern, aber dank kostenloser Website-Baukasten-Anwendungen kann dies heute jeder tun Das Problem ist, dass es so viele Anwendungen und Dienste zur Website-Erstellung gibt, die um Aufmerksamkeit buhlen, dass es schwierig sein kann zu wissen, f&amp;uuml;r welche man sich entscheiden soll - hier k&amp;ouml;nnen wir helfenAls linuxkompatibler Webeditor war Bluefish dank der zahlreichen Funktionen, die es den Benutzern bot, immer ein gutes Programm
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+
 <item>
 		<title>ttg</title>
 		<link>https://ahmed1107.github.io/testabbs122/t/ttg.html</link>
